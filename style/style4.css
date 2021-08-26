@@ -104,20 +104,21 @@ nav.menu ul a:hover {
 }
 
 .conteudo {
-  width: 600px;
+  width: 400px;
   padding: 25px;
   margin: 25px auto;
   background: #fff;
   border: 1px solid #dedede;
+  margin-right: 200px;
   -webkit-box-shadow: 1px 1px 1px 0px rgba(204, 204, 204, 0.35);
   -moz-box-shadow: 1px 1px 1px 0px rgba(204, 204, 204, 0.35);
   box-shadow: 1px 1px 1px 0px rgba(204, 204, 204, 0.35);
 }
 
 .conteudo img {
-  min-width: 650px;
+  min-width: 450px;
   margin: 0 0 25px -25px;
-  max-width: 650px;
+  max-width: 450px;
 }
 
 .conteudo h1 {
@@ -154,20 +155,21 @@ nav.menu ul a:hover {
 }
 
 .conteudo2 {
-  width: 600px;
+  width: 400px;
   padding: 25px;
   margin: 25px auto;
   background: #fff;
   border: 1px solid #dedede;
+  margin-right: 200px;
   -webkit-box-shadow: 1px 1px 1px 0px rgba(204, 204, 204, 0.35);
   -moz-box-shadow: 1px 1px 1px 0px rgba(204, 204, 204, 0.35);
   box-shadow: 1px 1px 1px 0px rgba(204, 204, 204, 0.35);
 }
 
 .conteudo2 img {
-  min-width: 650px;
+  min-width: 450px;
   margin: 0 0 25px -25px;
-  max-width: 650px;
+  max-width: 450px;
 }
 
 .conteudo2 h1 {
@@ -204,20 +206,21 @@ nav.menu ul a:hover {
 }
 
 .conteudo3 {
-  width: 600px;
+  width: 400px;
   padding: 25px;
   margin: 25px auto;
   background: #fff;
   border: 1px solid #dedede;
+  margin-right: 200px;
   -webkit-box-shadow: 1px 1px 1px 0px rgba(204, 204, 204, 0.35);
   -moz-box-shadow: 1px 1px 1px 0px rgba(204, 204, 204, 0.35);
   box-shadow: 1px 1px 1px 0px rgba(204, 204, 204, 0.35);
 }
 
 .conteudo3 img {
-  min-width: 650px;
+  min-width: 450px;
   margin: 0 0 25px -25px;
-  max-width: 650px;
+  max-width: 450px;
 }
 
 .conteudo3 h1 {
